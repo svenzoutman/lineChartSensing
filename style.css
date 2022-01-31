@@ -1,0 +1,70 @@
+.legenda {
+    font: 20px sans-serif;
+    font-weight: bold;         
+    text-anchor: start;
+    cursor: pointer;
+  }
+  
+  .path {
+    fill: red;
+  }
+  
+  g.tick {
+    font: 16px sans-serif;
+    font-weight: bold;
+  }
+  
+  .grid path {
+    stroke-width: 0;
+  }
+  
+  .grid line {
+    stroke-width: .2px;
+  }
+  
+  .domain {
+    stroke-width: 3px;
+  }
+  
+  
+  #bozLijn {
+    fill: none;
+    stroke: #264653;
+    stroke-width: 5px;
+  }
+  
+  #bnzLijn {
+    fill: none;
+    stroke: #287271;
+    stroke-width: 5px;
+  }
+  
+  #ggwLijn {
+    fill: none;
+    stroke: #2a9d8f;
+    stroke-width: 5px;
+  }
+  
+  #ggzLijn {
+    fill: none;
+    stroke: #8ab17d;
+    stroke-width: 5px;
+  }
+  
+  #nmlLijn {
+    fill: none;
+    stroke: #e9c46a;
+    stroke-width: 5px;
+  }
+  
+  #hlbLijn {
+    fill: none;
+    stroke: #f4a261;
+    stroke-width: 5px;
+  }
+  
+  #jorLijn {
+    fill: none;
+    stroke: #e76f51;
+    stroke-width: 5px;
+  }
